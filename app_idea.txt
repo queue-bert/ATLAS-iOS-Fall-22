@@ -1,0 +1,14 @@
+Queer Sex Ed App
+
+main points:
+    this would be a read only app where anyone could access the information without having to sign in
+    very friendly user interface with bright, welcoming colors
+
+features:
+    search functionality that can direct you to various articles or sections in the app
+        (advanced) i would love to add functionality for a chat bot that could take what questions a person has and spit out a response based on the content available within the app
+
+    still debating on how i would structure the content but thinking that it could be divided based on big topics like STDs and contraception but also more holistic topics like relationships and values of self-worth
+
+    maybe sex journal thing to encourage people to explore and document their sexuality and sexual experiences
+
